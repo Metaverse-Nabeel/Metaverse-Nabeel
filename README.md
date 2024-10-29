@@ -5,7 +5,7 @@
 </p>
 <hr/>
 <h1 align="center">Hi 👋, I'm Nabeel Ahmed</h1>
-<h3 align="center">A passionate Full-Stack developer from "Pakistan"!</h3>
+<h3 align="center">A passionate Senior Project Manager from "Pakistan"!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/nabeelchauhan42" target="blank"><img src="https://img.shields.io/twitter/follow/nabeelchauhan42?logo=twitter&style=for-the-badge" alt="nabeelchauhan42" /></a> </p>
 
-- 🌱 I’m currently learning **at Microverse**
+- 🌱 I’m currently doing Master of Software Engineering **at COMSATS**
 
-- 💬 Ask me about **ReactJS, MERN Stack**
+- 💬 Ask me about **Scrum, Agile Project Management, Waterfall Model**
 
 - 📫 How to reach me **nabeelahmed3129@gmail.com**
 
